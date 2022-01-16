@@ -52,7 +52,6 @@ nav {
 @media screen and (max-width: 1024px) {
   .nav-links {
     width: 60%;
-    border: 1px solid;
   }
 }
 
@@ -75,9 +74,9 @@ nav {
     transition: transform 0.5s ease-in;
   }
 
-  .nav-links li {
+  /* .nav-links li {
     opacity: 0;
-  }
+  } */
 
   .burger {
     display: block;
